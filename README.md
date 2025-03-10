@@ -13,17 +13,17 @@ Our AI-Powered Managed Study Room System integrates cutting-edge technologies to
 * Chatbot Counseling for Exam Stress
 
 # Features
-*1. Motion Recognition for Study Monitoring
+1. Motion Recognition for Study Monitoring
 Functionality: Utilizes AI-powered motion recognition to monitor students' behavior, detecting signs of drowsiness or distraction. This ensures students stay focused and engaged during study sessions.
 
 Benefits: Enhances concentration, reduces procrastination, and fosters a productive study environment.
 
-*2. AI-Generated Study Plans
+2. AI-Generated Study Plans
 Functionality: Analyzes students' academic performance and generates personalized study plans. These plans include tailored textbook recommendations and subject-specific learning time allocations.
 
 Benefits: Optimizes study time, improves academic performance, and provides a structured approach to learning.
 
-*3. Chatbot Counseling for Exam Stress
+3. Chatbot Counseling for Exam Stress
 Functionality: Offers 24/7 counseling support via AI chatbots, addressing students' mental health concerns and exam-related stress.
 
 # Benefits: Provides immediate emotional support, bridges the gap in traditional counseling services, and ensures students' well-being.
