@@ -1,7 +1,6 @@
 ## AI-Powered Managed Study Room System
 
 
-=====================================
 Our project name "A-CHER" means
 Ai+ Teacher = A-CHER
 
